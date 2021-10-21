@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedro-sendwave
-- 👀 I’m interested in ~~people, technology, science, space, history, economy, politics, geopolitics, neuroscience, philosophy, arts/culture, football/soccer, basketball, sailing, rallying, formula 1, traveling, literature, finance, crypto~~ **everything**
+- 👀 I’m interested in **everything**
 - 🌱 I’m currently learning parenting
-- 💞️ I’m looking to collaborate on making the world a slightly better place
+- 💞️ I’m looking to collaborate on getting things done
 - 📫 How to reach me: pedro@sendwave.com
 
 <!---
