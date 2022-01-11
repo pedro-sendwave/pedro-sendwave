@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @pedro-sendwave
-- 👀 I’m interested in **everything**
-- 🌱 I’m currently learning parenting
-- 💞️ I’m looking to collaborate on getting things done
 - 📫 How to reach me: pedro@sendwave.com
 
 <!---
